@@ -27,3 +27,7 @@ remove-gd-addon SimpleTeamColourSprite
 ```bash
 push-all-addons
 ```
+
+## Dependencies
+
+- [TeamColours](https://github.com/ChillCube/TeamColours)
